@@ -1,1 +1,2 @@
-2
+1、先在idea中从github更新新的操作，再把idea中的的修改提交到本地库，并推送push到github上面去；
+1、先idea提交本地库，在push到github;再在idea中从github上面把github的修改内容更新到idea中；
