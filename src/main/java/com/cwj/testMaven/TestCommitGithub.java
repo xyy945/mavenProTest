@@ -8,5 +8,7 @@ public class TestCommitGithub {
         System.out.println("123");
         System.out.println("hihihi!~girl11");
         System.out.println("heiheiehi");
+        System.out.println("github and idea修改同一文件");
+
     }
 }
