@@ -6,6 +6,6 @@ package com.cwj.testMaven;
 public class TestCommitGithub {
     public static void main(String[] args){
         System.out.println("123");
-        System.out.println("hihihi!~girl");
+        System.out.println("hihihi!~girl11");
     }
 }
